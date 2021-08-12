@@ -1,7 +1,6 @@
 <?php
 
 // phpcs:ignoreFile
-
 /**
  * @file
  * Configuration file for multi-site support and directory aliasing feature.
